@@ -1,1 +1,6 @@
-
+langgraph 
+langsmith 
+langchain_anthropic
+ipython
+jupyter
+langchain_community
